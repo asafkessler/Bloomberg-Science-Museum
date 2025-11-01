@@ -5,40 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a6c795a-c3fa-4d3e-8dfe-07efd06806c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Bloomberg Science Museum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_asyncio.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_bz2.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_contextvars.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_ctypes.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libcrypto-1_1-x64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libssl-1_1-x64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pyexpat.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python37.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/select.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/tcl86t.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/tk86t.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/unicodedata.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/winsound.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Full Pixle Tools/Script A - Image Saver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Full Pixle Tools/Script B - Image Pixel Analyser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Full Pixle Tools/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script 1 - Black&amp;White Filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script 2 - Black&amp;White Filter On Click.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script 3 - Color Filter Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script 4 - I Love You Face.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script 5 - Tiger Face Mode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiger.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script 5 - Tiger Face Mode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script 5 - Tiger Face Mode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +223,7 @@
       <workItem from="1760802191843" duration="2119000" />
       <workItem from="1761066532706" duration="701000" />
       <workItem from="1761118055604" duration="3370000" />
-      <workItem from="1762022096342" duration="889000" />
+      <workItem from="1762022096342" duration="1306000" />
     </task>
     <servers />
   </component>
