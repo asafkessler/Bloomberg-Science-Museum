@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6c795a-c3fa-4d3e-8dfe-07efd06806c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Script 5 - Tiger Face Mode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script 5 - Tiger Face Mode.py" afterDir="false" />
+    <list default="true" id="1a6c795a-c3fa-4d3e-8dfe-07efd06806c8" name="Changes" comment="working on the computer science demonstration at the Science Museum !">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "asafkessler"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/asafkessler/Bloomberg-Science-Museum.git",
+    "accountId": "82108209-7daa-4725-9844-50f5127c710f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -223,12 +235,25 @@
       <workItem from="1760802191843" duration="2119000" />
       <workItem from="1761066532706" duration="701000" />
       <workItem from="1761118055604" duration="3370000" />
-      <workItem from="1762022096342" duration="1306000" />
+      <workItem from="1762022096342" duration="1542000" />
     </task>
+    <task id="LOCAL-00001" summary="working on the computer science demonstration at the Science Museum !">
+      <option name="closed" value="true" />
+      <created>1762023688116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762023688116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working on the computer science demonstration at the Science Museum !" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on the computer science demonstration at the Science Museum !" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$main.coverage" NAME="main Coverage Results" MODIFIED="1760628078928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
