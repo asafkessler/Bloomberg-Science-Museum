@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a6c795a-c3fa-4d3e-8dfe-07efd06806c8" name="Changes" comment="working on the computer science demonstration at the Science Museum !">
+      <change afterPath="$PROJECT_DIR$/Einstein.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Script 1 - Black&amp;White Filter On Click.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Script 2 - Color Filter Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Script 3 - Pixel System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Script 4 - In search of a face.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Script 5 - I Love Science.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Script 6 - Tiger Face Mode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatPrinters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Full Pixle Tools/Script A - Image Saver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pixel/Script A - Image Saver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Full Pixle Tools/Script B - Image Pixel Analyser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pixel/Script B - Image Pixel Analyser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Full Pixle Tools/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pixel/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script 1 - Black&amp;White Filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script 2 - Black&amp;White Filter On Click.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script 3 - Color Filter Array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script 4 - I Love You Face.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script 5 - Tiger Face Mode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/download.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +50,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "asafkessler"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;asafkessler&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/asafkessler/Bloomberg-Science-Museum.git",
-    "accountId": "82108209-7daa-4725-9844-50f5127c710f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/asafkessler/Bloomberg-Science-Museum.git&quot;,
+    &quot;accountId&quot;: &quot;82108209-7daa-4725-9844-50f5127c710f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -53,41 +70,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Script 1 - Black&amp;White Filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Script 2 - Black&amp;White Filter On Click.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Script 3 - Color Filter Array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Script 4 - I Love You Face.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Script 5 - Tiger Face Mode.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Script A - Image Saver.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Script B - Image Pixel Analyser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.מןבק.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/devl/asaf-python-projects/Bloomberg Science Museum&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Pixel Reseacher.executor": "Run",
+    "Python.Script 1 - Black&White Filter.executor": "Run",
+    "Python.Script 2 - Black&White Filter On Click.executor": "Run",
+    "Python.Script 3 - Color Filter Array.executor": "Run",
+    "Python.Script 4 - I Love You Face.executor": "Run",
+    "Python.Script 4 - In search of a face.executor": "Run",
+    "Python.Script 5 - I Love Science.executor": "Run",
+    "Python.Script 5 - New.executor": "Run",
+    "Python.Script 5 - Tiger Face Mode.executor": "Run",
+    "Python.Script A - Image Saver.executor": "Run",
+    "Python.Script B - Image Pixel Analyser (1).executor": "Run",
+    "Python.Script B - Image Pixel Analyser.executor": "Run",
+    "Python.WhatPrinters.executor": "Run",
+    "Python.kk.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.מןבק.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/devl/asaf-python-projects/Bloomberg Science Museum",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\devl\asaf-python-projects\Bloomberg Science Museum" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\devl\asaf-python-projects\Bloomberg Science Museum\Pixel" />
+      <recent name="C:\devl\asaf-python-projects\Bloomberg Science Museum" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Script 5 - Tiger Face Mode">
-    <configuration name="Script 3 - Color Filter Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Script 6 - Tiger Face Mode">
+    <configuration name="Script 3 - Pixel System" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bloomberg Science Museum" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +129,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script 3 - Color Filter Array.py" />
+      <option name="SCRIPT_NAME" value="C:\devl\asaf-python-projects\Bloomberg Science Museum\Script 3 - Pixel System.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Script 4 - I Love You Face" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Script 4 - In search of a face" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bloomberg Science Museum" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +152,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script 4 - I Love You Face.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script 4 - In search of a face.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Script 5 - Tiger Face Mode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Script 5 - I Love Science" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bloomberg Science Museum" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +175,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script 5 - Tiger Face Mode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script 5 - I Love Science.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Script A - Image Saver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Script 6 - Tiger Face Mode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bloomberg Science Museum" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,12 +193,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Full Pixle Tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Full Pixle Tools/Script A - Image Saver.py" />
+      <option name="SCRIPT_NAME" value="C:\devl\asaf-python-projects\Bloomberg Science Museum\Script 6 - Tiger Face Mode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,12 +216,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Full Pixle Tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Full Pixle Tools/Script B - Image Pixel Analyser.py" />
+      <option name="SCRIPT_NAME" value="C:\devl\asaf-python-projects\Bloomberg Science Museum\Pixel\Script B - Image Pixel Analyser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bloomberg Science Museum" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Script 5 - Tiger Face Mode" />
-        <item itemvalue="Python.Script 4 - I Love You Face" />
-        <item itemvalue="Python.Script B - Image Pixel Analyser" />
-        <item itemvalue="Python.Script A - Image Saver" />
-        <item itemvalue="Python.Script 3 - Color Filter Array" />
+        <item itemvalue="Python.Script 6 - Tiger Face Mode" />
+        <item itemvalue="Python.Script 5 - I Love Science" />
+        <item itemvalue="Python.Script 4 - In search of a face" />
+        <item itemvalue="Python.kk" />
+        <item itemvalue="Python.Script 3 - Pixel System" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +287,9 @@
       <workItem from="1761066532706" duration="701000" />
       <workItem from="1761118055604" duration="3370000" />
       <workItem from="1762022096342" duration="1542000" />
+      <workItem from="1762789777456" duration="3140000" />
+      <workItem from="1762906316236" duration="4789000" />
+      <workItem from="1762926119107" duration="4587000" />
     </task>
     <task id="LOCAL-00001" summary="working on the computer science demonstration at the Science Museum !">
       <option name="closed" value="true" />
@@ -255,15 +309,32 @@
     <MESSAGE value="working on the computer science demonstration at the Science Museum !" />
     <option name="LAST_COMMIT_MESSAGE" value="working on the computer science demonstration at the Science Museum !" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Script 3 - Pixel System.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_4___In_search_of_a_face.coverage" NAME="Script 4 - In search of a face Coverage Results" MODIFIED="1762928335136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$main.coverage" NAME="main Coverage Results" MODIFIED="1760628078928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_1___Black_White_Filter.coverage" NAME="Script 1 - Black&amp;White Filter Coverage Results" MODIFIED="1761120941787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_A___Image_Saver.coverage" NAME="Script A - Image Saver Coverage Results" MODIFIED="1761121706115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Full Pixle Tools" />
-    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_5___Tiger_Face_Mode.coverage" NAME="Script 5 - Tiger Face Mode Coverage Results" MODIFIED="1761122592981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_1___Black_White_Filter.coverage" NAME="Script 1 - Black&amp;White Filter Coverage Results" MODIFIED="1762908706628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_3___Color_Filter_Array.coverage" NAME="Script 3 - Color Filter Array Coverage Results" MODIFIED="1762908059514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$kk.coverage" NAME="kk Coverage Results" MODIFIED="1762927603729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_B___Image_Pixel_Analyser.coverage" NAME="Script B - Image Pixel Analyser Coverage Results" MODIFIED="1762909408217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Full Pixle Tools" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_A___Image_Saver.coverage" NAME="Script A - Image Saver Coverage Results" MODIFIED="1762909397674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Full Pixle Tools" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_5___Tiger_Face_Mode.coverage" NAME="Script 5 - Tiger Face Mode Coverage Results" MODIFIED="1762929449390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$.coverage" NAME="מןבק Coverage Results" MODIFIED="1760803274795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_4___I_Love_You_Face.coverage" NAME="Script 4 - I Love You Face Coverage Results" MODIFIED="1761121892516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_3___Color_Filter_Array.coverage" NAME="Script 3 - Color Filter Array Coverage Results" MODIFIED="1761121041046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_2___Black_White_Filter_On_Click.coverage" NAME="Script 2 - Black&amp;White Filter On Click Coverage Results" MODIFIED="1761120991403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_B___Image_Pixel_Analyser.coverage" NAME="Script B - Image Pixel Analyser Coverage Results" MODIFIED="1761121717893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Full Pixle Tools" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$WhatPrinters.coverage" NAME="WhatPrinters Coverage Results" MODIFIED="1762791336639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_4___I_Love_You_Face.coverage" NAME="Script 4 - I Love You Face Coverage Results" MODIFIED="1762907688836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_5___I_Love_Science.coverage" NAME="Script 5 - I Love Science Coverage Results" MODIFIED="1762929244959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_5___New.coverage" NAME="Script 5 - New Coverage Results" MODIFIED="1762907259735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Pixel_Reseacher.coverage" NAME="Pixel Reseacher Coverage Results" MODIFIED="1762926585482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_2___Black_White_Filter_On_Click.coverage" NAME="Script 2 - Black&amp;White Filter On Click Coverage Results" MODIFIED="1762909328342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bloomberg_Science_Museum$Script_B___Image_Pixel_Analyser__1_.coverage" NAME="Script B - Image Pixel Analyser (1) Coverage Results" MODIFIED="1762910653646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
